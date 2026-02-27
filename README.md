@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Seja bem-vindo(a) ao meu perfil!☺️</h1>
+<h1 align="center">Seja bem-vindo(a) ao meu perfil!☺️- teste</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -52,6 +52,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MCAnaClara/MCAnaClara/output/snake.svg" alt="Snake animation" />
-
-###
+##
