@@ -51,7 +51,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MCAnaClara/MCAnaClara/output/snake.svg" alt="Snake animation" />
-
 ###
